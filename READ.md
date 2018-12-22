@@ -16,7 +16,7 @@
 
     
 
-6.  O **Space  Capital**  é uma nova forma de interagir com os planetas, com um simples toque na superfície do planeta você consegue ver a sua distância em km até o sooooool.
+6.  O **Space  Capital**  é uma nova forma de interagir com os planetas, com um simples toque na superfície do planeta você consegue ver a sua distância em km até o sooooool 222.
     
 
 7.  O Space  Capital foi feito totalmente com Javascript e Jquery, apresentando assim o mais alto desempenho no  Front-end.
